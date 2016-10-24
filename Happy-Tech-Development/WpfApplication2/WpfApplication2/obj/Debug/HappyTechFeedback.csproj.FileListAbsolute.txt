@@ -1,0 +1,20 @@
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback.csproj.GenerateResource.Cache
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\bin\Debug\HappyTechFeedback.exe.config
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\bin\Debug\HappyTechDB.mdf
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\bin\Debug\HappyTechDB_log.ldf
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\bin\Debug\HappyTechFeedback.exe
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\bin\Debug\HappyTechFeedback.pdb
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback_Content.g.cs
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback_MarkupCompile.cache
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback_MarkupCompile.lref
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback.g.resources
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback.Properties.Resources.resources
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback.exe
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\HappyTechFeedback.pdb
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\Simple Styles.baml
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\WpfApplication2\WpfApplication2\obj\Debug\App.baml
